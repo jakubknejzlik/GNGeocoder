@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>Pods-GNGeocoder-AFNetworking.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>Pods-GNGeocoder-CWLSynthesizeSingleton.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>Pods-GNGeocoder.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>Pods-GNGeocoderTests-CWLSynthesizeSingleton.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>Pods-GNGeocoderTests.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>045F0560A403253F688FFC9A</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>2E1FF9BAB43C8CE2DF9D9B2B</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>350066FBF8B42509FE1F3DF1</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>6997A170CAC1373A2CB6E078</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>7F6134804FB6830CB1C8BEFD</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>
